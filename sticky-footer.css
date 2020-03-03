@@ -3,6 +3,7 @@
 html {
     position: relative;
     min-height: 100%;
+    background-color: rgb(248, 249, 250);
   }
   body {
     margin-bottom: 60px; /* Margin bottom by footer height */
@@ -25,4 +26,14 @@ html {
     width: auto;
     max-width: 680px;
     padding: 0 15px;
+  }
+  .xboxlogo {
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  .text-muted {
+    display: flex;
+    justify-content: center;
   }
