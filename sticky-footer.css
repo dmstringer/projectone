@@ -1,0 +1,82 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    margin-bottom: 60px; /* Margin bottom by footer height */
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+  }
+  
+  
+  /* Custom page CSS
+  -------------------------------------------------- */
+  /* Not required for template or sticky footer method. */
+  
+  .container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  }
+  .xboxlogo {
+    max-width: 600px;
+    max-height: 800px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  .text-muted {
+    display: flex;
+    justify-content: center;
+  }
+  .sitelogo {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  .navbar-nav {
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .navbar-nav > li {
+    padding: 25px 15px 0px 15px;
+  }
+  .pcgamer {
+    max-width: 400px;
+    display: flex;
+    padding-bottom: 50px;
+  }
+  .gamesradar {
+    max-width: 400px;
+    display: flex;
+    padding-bottom: 50px;
+  }
+  .homepagepics {
+    display: flex;
+
+  }
+  .gamereviews {
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+  .owen {
+    max-width: 400px;
+    padding-bottom: 50px;
+  }
+  p {
+    max-width: 400px;
+    padding-bottom: 100px;
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+    color: grey;
+  }
