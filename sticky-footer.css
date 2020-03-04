@@ -37,3 +37,8 @@ html {
     display: flex;
     justify-content: center;
   }
+  .sitelogo {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
