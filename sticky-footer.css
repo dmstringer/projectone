@@ -26,7 +26,8 @@ html {
     padding: 0 15px;
   }
   .xboxlogo {
-    max-width: 400px;
+    max-width: 600px;
+    max-height: 800px;
     display: flex;
     justify-content: center;
     margin: 0 auto;
@@ -47,4 +48,38 @@ html {
   }
   .navbar-nav > li {
     padding: 25px 15px 0px 15px;
+<<<<<<< HEAD
+=======
+  }
+  .pcgamer {
+    max-width: 400px;
+    display: flex;
+    padding-bottom: 50px;
+  }
+  .gamesradar {
+    max-width: 400px;
+    display: flex;
+    padding-bottom: 50px;
+  }
+  .homepagepics {
+    display: flex;
+
+  }
+  .gamereviews {
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+  .owen {
+    max-width: 400px;
+    padding-bottom: 50px;
+  }
+  p {
+    max-width: 400px;
+    padding-bottom: 100px;
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+    color: grey;
+>>>>>>> aa01288ee823772f2ad7ca3153dd673ad6267279
   }
