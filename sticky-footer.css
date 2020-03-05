@@ -48,8 +48,6 @@ html {
   }
   .navbar-nav > li {
     padding: 25px 15px 0px 15px;
-<<<<<<< HEAD
-=======
   }
   .pcgamer {
     max-width: 400px;
@@ -75,11 +73,13 @@ html {
     max-width: 400px;
     padding-bottom: 50px;
   }
-  p {
+  .review {
     max-width: 400px;
     padding-bottom: 100px;
     font-family: 'Teko', sans-serif;
     font-size: 30px;
     color: grey;
->>>>>>> aa01288ee823772f2ad7ca3153dd673ad6267279
+  }
+  .card-text {
+    text-align: center;
   }
